@@ -1,0 +1,45 @@
+For preparing to get a job in VLSI, you must be clear in which domain you want to go i.e. Analog, Digital, Devices
+I prepared for the Digital domain and got selected in TSMC, so I can tell you a few topics that you should cover:
+1)Verilog:- Intra assignment delay
+
+event queue model
+
+(also you should be well versed with writing Verilog codes)
+
+2)Static Timing Analysis
+
+3)Clock Divider
+
+4)CDC(clock domain crossing) from sunburst pdf.
+
+5)Digital Electronics
+
+6) Power gating
+
+7)Clock Gating
+
+8)Reset synchronizer, reset removal, recovery time
+
+9)Metastability
+
+10)FIFO depth
+
+11)Ground bounce and voltage droop
+
+12)Synchronous and Asynchronous FIFO
+
+13)ASIC Design flow.
+
+14)VLSI design
+
+15)Hazards and faults
+
+16)BIST, ATPG, and SCAN
+
+17)Aptitude
+
+18)Puzzles from geeks for geeks
+
+You can get in touch with me for any further guidance on Linkedin.
+
+https://www.linkedin.com/in/pradhi-kumar-53b77612a/
